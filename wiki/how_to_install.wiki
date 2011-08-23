@@ -10,4 +10,4 @@
   * Download the newest version from http://code.google.com/p/ezstats/downloads/list
   * Unpack the zipfile and copy the folder to your webspace (f.e. to www.yourdomain.com/ezStats/)
   * Run the installer (f.e. www.yourdomain.com/ezStats/install/) and follow the instructions
-  * Dont't forget to delete the install-folder after completing the installation!
+  * Don't forget to delete the install-folder after completing the installation!
