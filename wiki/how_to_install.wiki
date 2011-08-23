@@ -1,5 +1,5 @@
+#summary How to install ezStats
 #labels Featured,Phase-Deploy
-==How to install ezStats==
 
 ===Requirements===
   * Webserver with PHP5-support
