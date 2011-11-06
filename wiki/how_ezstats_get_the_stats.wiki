@@ -1,0 +1,16 @@
+#summary How ezStats get the stats values
+
+== From where gets ezStats the stats values? ==
+There is no direct access to the stats-server from EA. Therefore ezStats get the stats by using the puplic API from the site http://bf3stats.com
+
+bf3stats uses a own database and so you have no realtime access to the stats data using the API.
+
+If you want the stats from player "shyguy", you have to log on the player on bf3stats. bf3stats searches for the player in EAs database and add him to its own.
+If you want the actual stats of "shyguy", bf2stats has to synch its database with EAs one. Then you may receive receive the newest data from the API.
+
+
+== What is currently the problem? ==
+
+Because the API of bf3stats is also Beta, ezStats can not trigger the adding and updating of players. Until the release of the final API, you have to add and update your players by hand at bf3stats.
+
+I know, it is not the way you are used to in ezStats for BC2. And it is not very handy. But is the only possible way at the moment.
