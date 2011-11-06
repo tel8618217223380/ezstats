@@ -1,4 +1,5 @@
 #summary How ezStats get the stats values
+#labels Featured
 
 == From where gets ezStats the stats values? ==
 There is no direct access to the stats-server from EA. Therefore ezStats get the stats by using the puplic API from the site http://bf3stats.com
