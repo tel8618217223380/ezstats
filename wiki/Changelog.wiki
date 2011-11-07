@@ -3,8 +3,8 @@
 == v0.1 to v0.11 ==
 (work in progress)
 
-=== Bugfixes ===
+*Bugfixes*
   * Assigned nicknames are now displayed correctly
 
-=== Features ===
+*Features*
   * Link to Battlelog added
