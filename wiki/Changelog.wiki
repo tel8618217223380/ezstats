@@ -1,0 +1,9 @@
+#summary Overview of the changes in ezStats
+
+== v0.1 to v0.11 ==
+
+=== Bugfixes ===
+  * Assigned nicknames are now displayed correctly
+
+=== Features ===
+  * Link to Battlelog added
