@@ -1,5 +1,10 @@
 #summary Overview of the changes in ezStats
 
+== Important notice ==
+Please don´t forget to run the installer after uploading a new version.
+And update all players after that to avoid failures.
+
+
 == v0.1 to v0.11 ==
 (work in progress)
 
