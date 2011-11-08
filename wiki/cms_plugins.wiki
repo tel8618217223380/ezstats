@@ -1,0 +1,8 @@
+#summary CMS-Plugins to integrate ezStats seamless into a CMS (without using iFrame)
+
+
+In ezStats for Bad Company 2 I offer plugins, with which you can integrate ezStats in a CMS. ([http://www.sixbitunder.com/pagemain/index.php?site=ezstats Demo])
+
+In ezStats 2 is this feature not implemented yet, because the code is 90% rewritten. But the feature will come soon! :)
+
+If you request a CMS that I haven´t supported in ezStats for BC2, please leave a comment with it´s name.
