@@ -6,10 +6,11 @@ And update all players after that to avoid failures.
 
 
 == v0.1 to v0.11 ==
-(work in progress)
+
 
 *Bugfixes*
   * Assigned nicknames are now displayed correctly
+  * Error during installation in some circumstances is fixed now (Undefined variable: sql in install/index.php on line 202)
 
 *Features*
   * Link to Battlelog added
