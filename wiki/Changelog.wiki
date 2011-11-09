@@ -5,6 +5,13 @@ Please don´t forget to run the installer after uploading a new version.
 And update all players after that to avoid failures.
 
 
+==v0.11 to v0.12==
+(work in progress)
+
+*Bugfixes*
+ * Fixed a error which could occur on webspaces with PHP 5.3.x
+
+
 == v0.1 to v0.11 ==
 
 
