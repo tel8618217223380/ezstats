@@ -11,7 +11,7 @@ If your are updating from version 0.10, you have to run the installer, because o
  * Fixed a error which could occur on webspaces with PHP 5.3.x
 
 *New Features*
- * The leaderboard has a default width of 1000 pixels. If your activated need more space than those pixels, the leaderboard grows automatically.
+ * The leaderboard has a default width of 1000 pixels. If your activated columns need more space than those pixels, the leaderboard grows automatically.
  * A "infobubble" has been added. This tooltip shows detailed infos of the value, your mouse is hovering
 
 *Additional Changes*
