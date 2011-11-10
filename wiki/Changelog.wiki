@@ -5,7 +5,6 @@ You have to run the installer after uploading the new version, because of change
 
 
 ==v0.11 to v0.12==
-(work in progress. estimated release nov 10th)
 
 *Bugfixes*
  * Fixed a error which could occur on webspaces with PHP 5.3.x
