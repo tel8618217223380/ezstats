@@ -1,7 +1,7 @@
 #summary Overview of the changes in ezStats
 
 == Important notice ==
-If your are updating from version 0.10, you have to run the installer, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
+You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
 
 ==v0.11 to v0.12==
