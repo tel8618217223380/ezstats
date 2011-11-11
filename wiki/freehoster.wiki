@@ -1,0 +1,10 @@
+#summary Overview of free web hosts
+
+Overview of free web hosts that offer all the necessary functions for ezStats:
+  * [http://www.000webhost.com/ 000webhost]
+If you know a free web host that is not listed here, please post it as a comment.
+<br/>
+----
+Übersicht über kostenlose Webhoster, die alle für ezStats notwendigen Funktionen anbieten:
+ * [http://www.000webhost.com/ 000webhost]
+Wenn du einen kostenlosen Webhoster kennst, der hier nicht aufgeführt ist, dann poste ihn bitte als Kommentar.
