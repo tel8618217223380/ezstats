@@ -1,6 +1,6 @@
 #summary How to upgrade ezStats
 #labels Phase-Deploy
-_deutsche Version weiter unten_
+_[http://code.google.com/p/ezstats/wiki/how_to_upgrade#Einleitung Deutsche Anleitung]_
 
 === Introduction ===
 
