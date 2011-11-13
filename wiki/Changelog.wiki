@@ -3,6 +3,21 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.12 to v0.13==
+
+*New stats columns:*
+  * Number of different Ribbons and Medals
+  * Favored weapons, vehicles, vehicle categories, equipment
+  * Rank-progress
+
+*Other changes:*
+  * The installer checks now whether the server has been disabled important functions
+  * The line on the leaderboard, in which the cursor is, is highlighted now
+  * A space can now be placed at the end of a clan tag 
+  * Battlelog and bf3stats be opened in new tab
+
+*Bugfix:*
+  * The "growing" of the leaderboard should work better now
 
 ==v0.11 to v0.12==
 
