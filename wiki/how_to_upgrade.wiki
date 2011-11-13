@@ -1,6 +1,6 @@
 #summary How to upgrade ezStats
 #labels Phase-Deploy
-[Deutsch#Einleitung]
+_deutsche Version weiter unten_
 
 === Introduction ===
 
