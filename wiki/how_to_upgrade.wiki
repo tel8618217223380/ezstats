@@ -6,7 +6,7 @@ _deutsche Version weiter unten_
 
 To update ezStats to a newer version is pretty simple. Due to the quantity of graphics is ezStats but quite large. In order to upload only changed files, I've created this guide. As an FTP program, I recommend [http://filezilla-project.org/ FileZilla].
 
-Instructions === ===
+=== Instructions ===
    * Download and install FileZilla. After starting the program, connect yourself with your Web server. Open "File-> Site Manager" to create one or more FTP accounts permanently.
     [http://gfx.ezstats.org/upgrade_1.jpg http://gfx.ezstats.org/upgrade_1_thumb.jpg]
   
