@@ -5,6 +5,7 @@ I would be very happy if you want to translate ezStats into your language. This 
   # Please create a new issue, or send me a eMail, with the language you want to translate to
   # I will send you then a link to a online tool I programmed
   # I this tool you've just to enter the translated texts in the belonged input fields. Everytime you leave a input field with the cursor, the text is saved automatically
+  # You can enter the fields blank if you want to use the eEnglish text
   # If you have the text translated, I publish the language files with the next update
 
 In the texts there are some control characters that should not be changed:
