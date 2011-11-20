@@ -1,7 +1,18 @@
 #summary Overview of the changes in ezStats
+#labels Featured
 
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
+
+
+==v0.13 to v0.14==
+
+*New Feature: Auto-update*
+  * ezStats can now not only compare the stats with the database of bf3stats.com, but also register new players at bf3stats.com. And ezStats can request bf3stats.com, syncronize the data of a player with EA's servers. For more information: http://code.google.com/p/ezstats/wiki/how_ezstats_get_the_stats
+
+*Bugfixes:*
+  * Fixed a bug where the style sheet has not been shown properly (Times New Roman-bug)
+  * Fixed special character bug in German language files
 
 ==v0.12 to v0.13==
 
