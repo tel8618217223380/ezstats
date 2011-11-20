@@ -1,6 +1,6 @@
 #summary How ezStats get the stats values
 #labels Featured
-_[http://code.google.com/p/ezstats/wiki/how_ezstats_get_the_stats#Von?Deutsche Version]_
+_[http://code.google.com/p/ezstats/wiki/how_ezstats_get_the_stats#German_Version?Deutsche Version]_
 
 == From where gets ezStats the stats values? ==
 There is no direct access to the stats-server from EA. Therefore ezStats get the stats by using the puplic API from the site http://bf3stats.com
@@ -31,7 +31,7 @@ By limiting the number of requests it is even necessary. I recommend to mandate 
 Free cronjobs you can create at http://www.setcronjob.com (English) or http://www.cronjob.de (German).
 
 <br/><br/><br/>
-
+=====German_Version======
 == Von wo erhält ezStats die Stats-Daten? ==
 Es gibt keinen direkten Zugriff auf die Stats-Server von EA. Dafür gibt es die öffentliche API der Seite http://bf3stats.com.
 
