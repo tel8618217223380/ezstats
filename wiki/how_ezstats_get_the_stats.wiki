@@ -31,7 +31,7 @@ If you only have a few players on the leaderboard, you can reduce the time. Do y
 By limiting the number of requests it is even necessary. I recommend to mandate a cron job, to call the update function every hour. The URL can be found in the Admin Panel.
 Free cronjobs you can create at http://www.setcronjob.com (English) or http://www.cronjob.de (German).
 
-<br/><br/>
+<br/>
 
 == Von wo erhält ezStats die Stats-Daten? ==
 Es gibt keinen direkten Zugriff auf die Stats-Server von EA. Dafür gibt es die öffentliche API der Seite http://bf3stats.com.
