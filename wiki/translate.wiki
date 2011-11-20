@@ -7,7 +7,8 @@ I would be very happy if you want to translate ezStats into your language. This 
   # I this tool you've just to enter the translated texts in the belonged input fields. Everytime you leave a input field with the cursor, the text is saved automatically
   # If you have the text translated, I publish the language files with the next update
 
-In the texts there are some control characters that should not be changed
+In the texts there are some control characters that should not be changed:
+
   * `$name` stands for a variable. ezStats filles text in there
   * `[br]` stands for a line break
   * `[b]` and `[/b]` stands for bold start/end
