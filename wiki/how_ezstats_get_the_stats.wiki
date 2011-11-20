@@ -18,7 +18,7 @@ During the installation of ezStats your leaderboard is automatically assigned an
 The comparison of ezStats' data with the data of bf3stats is unlimited. The order to register a player or to sync with EA is limited to 10 requests per hour.
 
 
-== How do I set the update function of a ezStats best? ==
+== How do I set the update function of ezStats best? ==
 By default, ezStats updates 15 playerss per call of the update function. You can set the value higher. When the loading icon does not disappear after the specified time, the value was too high. The number of players that ezStats can update simultaneously depends on the characteristics of your webspace.
 
 Players who are not yet in the database of bf3stats.com, will be automatically registered by ezStats. It may take some time until the data is available.
