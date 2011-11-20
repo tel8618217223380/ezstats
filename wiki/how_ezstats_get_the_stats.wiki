@@ -1,6 +1,6 @@
 #summary How ezStats get the stats values
 #labels Featured
-_[http://code.google.com/p/ezstats/wiki/how_ezstats_get_the_stats#Von wo erhält ezStats die Stats-Daten?Deutsche Version]_
+_[http://code.google.com/p/ezstats/wiki/how_ezstats_get_the_stats#Von?Deutsche Version]_
 
 == From where gets ezStats the stats values? ==
 There is no direct access to the stats-server from EA. Therefore ezStats get the stats by using the puplic API from the site http://bf3stats.com
@@ -30,7 +30,7 @@ If you only have a few players on the leaderboard, you can reduce the time. Do y
 By limiting the number of requests it is even necessary. I recommend to mandate a cron job, to call the update function every hour. The URL can be found in the Admin Panel.
 Free cronjobs you can create at http://www.setcronjob.com (English) or http://www.cronjob.de (German).
 
-
+<br/><br/><br/>
 
 == Von wo erhält ezStats die Stats-Daten? ==
 Es gibt keinen direkten Zugriff auf die Stats-Server von EA. Dafür gibt es die öffentliche API der Seite http://bf3stats.com.
