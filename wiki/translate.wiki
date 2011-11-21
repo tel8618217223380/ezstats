@@ -10,7 +10,7 @@ I would be very happy if you want to translate ezStats into your language. This 
 
 In the texts there are some control characters that should not be changed:
 
-  * `$name` stands for a variable. ezStats filles text in there. Please don't translate the name of the variable.
+  * `$name` and `$name->value` stands for a variable. ezStats filles text in there. Please don't translate the name of the variable.
   * `[br]` stands for a line break
   * `[b]` and `[/b]` stands for bold start/end
   *  `[]` stands for a whitespace
