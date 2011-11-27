@@ -8,7 +8,7 @@ You have to run the installer after uploading the new version, because of change
 ==v0.14 to 0.15==
 *New Languages:*
   * Portuguese (Translated by Emanuel "Bejecas" Rua)
-  * Russian (Translated by Vladimir [59RU] Motor59)
+  * Russian (Translated by Vladimir "59RU" Motor59)
 
 *Admin Panel:*
   * Update status "Error" is now more comprehensive
