@@ -5,6 +5,22 @@
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
 
+==v0.14 to 0.15==
+*Admin Panel:*
+  * Update status "Error" is now more comprehensive
+  * Added link back to Leaderboard
+
+*Stats new columns:*
+  * Rankicon & Progress (combined)
+  * Position on the leaderboard
+  * Favorite Kit & Vehicle category with Icon
+  * Skill
+
+*Bugfix:*
+  * Sorting of Medals and Ribbons now works correctly
+  * The sort arrows no longer overlap with the column name
+
+
 ==v0.13 to v0.14==
 
 *New Feature: Auto-update*
