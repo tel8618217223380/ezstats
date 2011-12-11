@@ -5,6 +5,23 @@
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
 
+==v0.15 to 0.20==
+*New Feature: CMS-Plugins*
+The following CMS are supported so far: DZCP, e107, ECP, Ilch, Joomla, PHPFusion, PHPKit, PHPNuke, Webspell, Wordpress
+See also: http://code.google.com/p/ezstats/wiki/cms_plugins
+
+*New Languages:*
+  * Turkish (Translated by Fatih "MrkiLLerMan88" Es;)
+  * Italian (Translated by Pietro "Skar3" Mingo)
+  * Korean (Translated by Son "Kananbis" JiHoon)
+  * French (Translated by Adrien "DriiDrii74" Manzon)
+
+*Bugfixes:*
+  * Rank & Progress icons are now displayed correctly in any size
+  * The sorting of the leaderboard is now correct when "position" is displayed in column 1
+
+
+
 ==v0.14 to 0.15==
 *New Languages:*
   * Portuguese (Translated by Emanuel "Bejecas" Rua)
