@@ -11,7 +11,7 @@ You have to run the installer after uploading the new version, because of change
   * See also: http://code.google.com/p/ezstats/wiki/cms_plugins
 
 *New Languages:*
-  * Turkish (Translated by Fatih "MrkiLLerMan88" Es;)
+  * Turkish (Translated by Fatih "MrkiLLerMan88" Es)
   * Italian (Translated by Pietro "Skar3" Mingo)
   * Korean (Translated by Son "Kananbis" JiHoon)
   * French (Translated by Adrien "DriiDrii74" Manzon)
