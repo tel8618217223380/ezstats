@@ -5,6 +5,18 @@
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
 
+==v0.20 to 0.30==
+*New Feature: Customizable design*
+  * In admin panel you now have a new menu item: "Style". In this menu you can easily make changes to the design of your leaderboard, and customize it to your wishes!
+
+*New Languages:*
+  * Polish: (Translated by Artur "cyrq" Kubicki)
+  * Dutch: (Translated by Martin "Bollesmurf" )
+
+*Bugfixes:*
+  * The compatibility with various javascript libraries was increased
+
+
 ==v0.15 to 0.20==
 *New Feature: CMS-Plugins*
   * The following CMS are supported so far: DZCP, e107, ECP, Ilch, Joomla, PHPFusion, PHPKit, PHPNuke, Webspell, Wordpress
