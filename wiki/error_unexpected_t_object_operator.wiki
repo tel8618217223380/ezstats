@@ -1,5 +1,0 @@
-#summary Parse error: syntax error, unexpected T_OBJECT_OPERATOR
-
-You get this error message because your webserver supports PHP 4 only. But ezStats requires PHP version 5.2 or higher. Please contact your webhost and let update your webpackage.
-
-_Du bekommst diese Fehlermeldung, weil dein Webserver nur PHP 4 unterstützt. ezStats benötigt aber die PHP-Version 5.2 oder höher. Bitte kontaktiere deinen Webhoster und lasse ein Webpaket aktualisieren._
