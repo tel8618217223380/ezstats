@@ -4,6 +4,18 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.30 to 0.40==
+*New Feature: Detail-View*
+  * If you click on the leaderboard on a player's name, now a lightbox appears with detailed information of that player. It is currently limited to the Kit-, Team- and Combatstats. The interesting details such as weapons- and vehiclestats come in the next version.
+
+
+*Languages:*
+  * New: Norwegian (Translated by Martin Stranden)
+  * Revised: French and Dutch (Adminpanel now translated)
+
+*Bugfixes:*
+  * Fixed a bug that various special characters were not displayed correctly on some servers. (Especially korean and french)
+
 
 ==v0.20 to 0.30==
 *New Feature: Customizable design*
