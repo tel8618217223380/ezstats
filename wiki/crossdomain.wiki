@@ -1,0 +1,34 @@
+#summary ezStats is installed in a different domain as your CMS
+#labels Phase-Deploy
+
+
+=== English ===
+
+If you have ezStats installed in a different domain than your CMS, the "detail-popup" does not work. Due to a security policy on the server where ezStats is installed , it blocks the request from the foreign server.
+
+This discontent can be solved with a simple XML file called "crossdomain.xml", which shall be taken in the root directory of the server where ezStats is installed.
+The code for the file you'll find below.
+
+The XML file contains a white list. Who shows up here, may access. The commented-out part with the item `allow-access-from` opens this door to all or specific domains. The asterisk (`*`) in domain and port is a wild card, thus allowing everyone access. It is better if you fill in `domain=""` the domain of your CMS.
+
+=== Deutsch ===
+
+Wenn du ezStats in einer anderen Domain installiert hast als dein CMS, funktioniert das Detail-Popup nicht. Aufrgrund einer Sicherheitsrichtlinie blockt der Server wo ezStats installiert ist, die Anfrage vom fremden Server ab. 
+
+Diesem Missmut lässt sich in der Regel mit einer simplen XML Datei namens "crossdomain.xml" abhelfen, die im root-Verzeichnis des Servers abzulegen ist, wo ezStats installiert ist.
+Den Code für die Datei findest weiter unten.
+
+Die XML Datei enthält eine Whitelist. Wer hier auftaucht, darf zugreifen. Der auskommentierte Teil mit dem Element `allow-access-from` öffnet dabei Tür und Tor für spezielle oder alle Domains. Der Stern (`*`) in domain und port ist eine Wildcard und erlaubt somit jeden Zugriff. Besser ist es, wenn du unter `domain=""` die Domain deines CMS eingibst.
+
+
+===Code===
+{{{
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM 
+    "http://www.macromedia.com/xml/dtds/cross-domain-policy.dtd">
+<cross-domain-policy>
+<!--
+   <allow-access-from domain="*" to-ports="*" />
+-->
+</cross-domain-policy>
+}}}
