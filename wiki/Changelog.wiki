@@ -4,6 +4,20 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.40 to 0.41==
+*CMS-Plugins:*
+  * New: Simple Machines Forum (SMF)
+
+
+*Bugfixes:*
+  * In plugin mode, the font-family should now inherit correctly
+  * Various improvements in the CSS code of the detail views
+  * If ezStats runs as a plugin for a CMS, the detail view you should now be displayed even if ezStats is installed in a different domain than the CMS
+
+
+*New Feature: Weapons overview*
+  * In detail view there is now the weapons overview. All information about the weapons are displayed in a fully sortable table. Detailed information on each value are shown as a mouse-over effect. Moreover, the best weapons in four categories are highlighted.
+
 ==v0.30 to 0.40==
 *New Feature: Detail-View*
   * If you click on the leaderboard on a player's name, now a lightbox appears with detailed information of that player. It is currently limited to the Kit-, Team- and Combatstats. The interesting details such as weapons- and vehiclestats come in the next version.
