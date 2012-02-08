@@ -4,6 +4,23 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.41 to 0.42==
+*New Feature: Vehicle overview*
+  * In detail view there is now the vehicle overview. All information about the vehicles are displayed in a fully sortable table. Detailed information on each value are shown as a mouse-over effect. Moreover, the stats of the vehicle categories are displayed as well, including the common unlocks.
+
+
+*New CMS-Plugins:*
+  * PHPKIT 1.6.1
+  * MyBB 1.6
+
+
+*Bugfixes:*
+  * Fixed several bugs that could occur when a player reaches the last rank
+  * B2K weapons are now in the weapons overview
+  * If a weapon has no unlocks, no wrong value appears anymore
+  * Detail view is now displayed correctly even with small monitors
+  * During installation, the leaderboard gets a unique key assigned. With it, he can add new players to BF3Stats, and can push their updates. If the server of BF3Stats is overloaded, the leaderboard does not receive a key and the player update is faulty. From now ezStats recognizes the missing key and tries to request a key on every update
+
 ==v0.40 to 0.41==
 *CMS-Plugins:*
   * New: Simple Machines Forum (SMF)
