@@ -1,0 +1,7 @@
+#summary Solution to fix erroneous symbols in your leaderboard
+
+=== english ===
+
+Under some circumstances, the default charset of your can't be set to UTF-8 by ezStats. This causes, that some special signs are not displayed correctly, or some useless signs are displayed like *Â*
+
+The solution is quite simple: Download [http://gfx.ezstats.org/htaccess_utf8.zip this] file, unzip it and upload the file `.htaccess` into your ezStats folder. This should be all!
