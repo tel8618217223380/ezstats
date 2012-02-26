@@ -11,6 +11,7 @@ You have to run the installer after uploading the new version, because of change
 
 *New CMS-Plugins:*
   * vBulletin CMS
+  * Nuked Klan
 
 *Language:*
   * New: Spanish (Translated by Teobaldo Vasquez Pina)
