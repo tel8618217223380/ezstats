@@ -6,8 +6,9 @@ You have to run the installer after uploading the new version, because of change
 
 
 ==v0.42 to 0.43==
-*New Feature: Global Rankings*
+*New Features:*
   * In detail view there are now you global rank for your many stats values, for weapons and vehicles.
+  * In the detail view are now the equiment stats
 
 *New CMS-Plugins:*
   * vBulletin CMS
