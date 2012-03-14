@@ -5,6 +5,19 @@
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
 
+
+==v0.43 to 0.44==
+*New Features:*
+  *  In detail view are now three new tabs: Awards, Assignments and Coop!
+
+*Bugfixes:*
+  * Players should now be properly sorted by the values
+  * With some server configurations the detail view did not work. This is fixed
+
+*Language:*
+  * New: Hebrew (Translated by Boaz Shako) 
+
+
 ==v0.42 to 0.43==
 *New Features:*
   * In detail view are now global ranks for many stats values, for weapons, vehicles and vehicles
