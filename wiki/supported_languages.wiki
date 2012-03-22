@@ -4,16 +4,17 @@ Those languages are supported in ezStats. If you want to translate ezStats in yo
 
  * English
  * German
- * Dutch - translated by Martin `Oergamer.nl` Sluiter
- * French - translated by Adrien `DriiDrii74` Manzon
- * Hebrew - translated by Boaz `NightBeast` Shako
- * Italian - translated by Pietro `Skar3` Mingo
- * Korean - translated by Son `Kananbis` JiHoon
- * Norwegian - translated by Martin `SleggeAuto` Stranden
- * Polish - translated by Artur `cyrq` Kubicki
- * Portuguese - translated by Emanuel `Bejecas` Rua
- * Russian - translated by Vladimir `59RU` Motor59
- * Spanish - translated by Teobaldo `theo9876543210` Vasquez Pina
- * Turkish - translated by Fatih `MrkiLLerMan88` Es
+ * Czech - translated by Matej _matysekcz_ Stembirek
+ * Dutch - translated by Martin _Oergamer.nl_ Sluiter
+ * French - translated by Adrien _DriiDrii74_ Manzon
+ * Hebrew - translated by Boaz _NightBeast_ Shako
+ * Italian - translated by Pietro _Skar3_ Mingo
+ * Korean - translated by Son _Kananbis_ JiHoon
+ * Norwegian - translated by Martin _SleggeAuto_ Stranden
+ * Polish - translated by Artur _cyrq_ Kubicki
+ * Portuguese - translated by Emanuel _Bejecas_ Rua
+ * Russian - translated by Vladimir _59RU_ Motor59
+ * Spanish - translated by Teobaldo _theo9876543210_ Vasquez Pina
+ * Turkish - translated by Fatih _MrkiLLerMan88_ Es
 
 I would like to express my thanks for the translations.
