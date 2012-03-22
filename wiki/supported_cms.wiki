@@ -21,6 +21,7 @@ If your CMS is not listed here, please create a new issue: http://code.google.co
   * Joomla
   * MyBB
   * Nuked Klan
+  * phpBB Portal
   * PHPBoost
   * PHPFusion
   * PHPKit
