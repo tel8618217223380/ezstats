@@ -1,0 +1,31 @@
+#summary List of the supported CMS
+
+== Introduction ==
+
+You can run ezStats as a plugin for you CMS. The leaderboard is then embedded into your Homepage seamless. 
+
+For more informations see here: http://code.google.com/p/ezstats/wiki/cms_plugins
+
+If your CMS is not listed here, please create a new issue: http://code.google.com/p/ezstats/issues/entry
+
+
+
+== Supported CMS ==
+
+  * Cotonti
+  * Dragonfly
+  * DZCP
+  * e107
+  * ECP
+  * Ilch
+  * Joomla
+  * MyBB
+  * Nuked Klan
+  * PHPBoost
+  * PHPFusion
+  * PHPKit
+  * PHPNuke
+  * SMF
+  * vBulletin CMS
+  * Webspell
+  * Wordpress 
