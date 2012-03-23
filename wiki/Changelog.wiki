@@ -4,6 +4,16 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.44 to 0.50==
+*New Features:*
+  * Multiple Admins: In this version, you can add more admin accounts in the adminpanel, so mates can help you manage your leaderboard. You can grant them full access (as you have), or limited access (the can only manage players).
+  * Self-Adding User: Also in this version, player can add themselves to the leaderboard. This option is disabled by default, but can be activated in Adminpanel->Settings. There are three choices: Disabled, Enabled with link (then a link to the adding-page appears in the leaderboard), Enabled without link (if you don't won't a link, you can tell your mates the URL in another way)
+
+*Language:*
+  * Czech language support
+
+*New CMS-Plugins:*
+  * phpBB Portal plugin support 
 
 
 ==v0.43 to 0.44==
