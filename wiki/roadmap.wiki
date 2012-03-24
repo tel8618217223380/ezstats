@@ -6,12 +6,6 @@
 Here I will introduce the planned features of the upcoming versions of ezStats.
 
 
-== v0.50 ==
-  * _Multiple Admins_: In this version, you can add more admin accounts in the adminpanel, so mates can help you manage your leaderboard. You can grant them full access (as you have), or limited access (the can only manage players).
-  * _Self-Adding User_: Also in this version, player can add themselves to the leaderboard. This option is disabled by default, but can be activated in Adminpanel->Settings. There are three choices: Disabled, Enabled with link (then a link to the adding-page appears in the leaderboard), Enabled without link (if you don't won't a link, you can tell your mates the URL in another way)
-  * Czech language support
-  * phpBB Portal plugin support
-
 == v0.51 ==
   * _Platoon-Sync_: In this version, you can syncronize the players in your leaderboard with those in your platoon(s). If you use this function, you've just maintain your platoons, and not in ezStats also. There are three choices: Disabled, Enabled with deletion (players will be deleted, if they are not in the platoons anymore), Enabled without deletion (players will stay in the leaderboard, even if they not in the platoons anymore)
   * Plugin support for wBB3 and OCPortal
