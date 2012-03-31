@@ -4,6 +4,21 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.50 to 0.51==
+*Bugfixes:*
+  * Enhanced compatibility to various JS-libraries
+
+*New CMS-Plugins:*
+  * wBB3
+  * ocPortal 7.x
+  * Joomla 2.5
+
+*New Feature: Platoon-Sync*
+
+In this version, you can syncronize the players in your leaderboard with those in your platoon(s). If you use this function, you've just maintain your platoons, and not in ezStats also. There are three choices: Disabled, Enabled with deletion (players will be deleted, if they are not in the platoons anymore), Enabled without deletion (players will stay in the leaderboard, even if they not in the platoons anymore)
+
+It may be that during the first synchronization many players have to be added at to the leaderboard. Then it may be that the maximum time is exceeded, and stops the script. This is not a problem: at the next synchronization is will resume where the script has terminated.
+
 ==v0.44 to 0.50==
 *New Features:*
   * Multiple Admins: In this version, you can add more admin accounts in the adminpanel, so mates can help you manage your leaderboard. You can grant them full access (as you have), or limited access (the can only manage players).
