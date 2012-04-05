@@ -5,11 +5,6 @@
 
 Here I will introduce the planned features of the upcoming versions of ezStats.
 
-
-== v0.51 ==
-  * _Platoon-Sync_: In this version, you can syncronize the players in your leaderboard with those in your platoon(s). If you use this function, you've just maintain your platoons, and not in ezStats also. There are three choices: Disabled, Enabled with deletion (players will be deleted, if they are not in the platoons anymore), Enabled without deletion (players will stay in the leaderboard, even if they not in the platoons anymore)
-  * Plugin support for wBB3 and OCPortal
-
 == v0.53 ==
   * _Leaderboard Overview_: There are some new columns in the leaderboard, with you can activate in Adminpanel->Customize. These columns are Headshots, Longest headshot, Lngst handheld HS, Best kill streak, Vehicles destroyed, Shots, Hits, Savior kills, Avenger kills, Nemesis kills, Best nemesis streak
   * _Last seen online_: Also new in the leaderboard: the last time a player was online. If you click on the date, a box with the server details pops up
