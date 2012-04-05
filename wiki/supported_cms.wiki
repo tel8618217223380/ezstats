@@ -21,6 +21,7 @@ If your CMS is not listed here, please create a new issue: http://code.google.co
   * Joomla
   * MyBB
   * Nuked Klan
+  * ocPortal
   * phpBB Portal
   * PHPBoost
   * PHPFusion
@@ -28,5 +29,6 @@ If your CMS is not listed here, please create a new issue: http://code.google.co
   * PHPNuke
   * SMF
   * vBulletin CMS
+  * wBB3
   * Webspell
   * Wordpress 
