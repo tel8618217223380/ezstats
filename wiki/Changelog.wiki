@@ -4,6 +4,16 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+
+==v0.51 to 0.52==
+*Bugfixes Platoon-Sync:*
+  * Platoon Sync now also works with PS3 and XBOX-platoon
+  * Platoon Sync now also accepts players with spaces in name
+  * Deleted players from a platoon will no longer appear on the leaderboard
+
+*Detail-view:*
+  * In the weapons tab you can now filter the weapons by kit affiliation. There is also a progress bar, how many of the primary weapons have been awarded with a service star.
+
 ==v0.50 to 0.51==
 *Bugfixes:*
   * Enhanced compatibility to various JS-libraries
