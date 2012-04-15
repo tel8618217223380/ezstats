@@ -7,7 +7,6 @@ Here I will introduce the planned features of the upcoming versions of ezStats.
 
 == v0.53 ==
   * _Last seen online_: There are some new columns in the leaderboard, with you can activate in Adminpanel->Customize: the last time a player was online. If you click on the date, a box with the server details pops up
-  * _Styles_: The styles menu in the adminpanel is revised for easier modifications
   * _CMS_: Clansphere
 
 == v0.60 ==
