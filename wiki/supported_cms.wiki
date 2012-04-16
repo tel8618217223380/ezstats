@@ -12,6 +12,7 @@ If your CMS is not listed here, please create a new issue: http://code.google.co
 
 == Supported CMS ==
 
+  * Clansphere *new*
   * Cotonti
   * Dragonfly
   * DZCP
@@ -24,6 +25,7 @@ If your CMS is not listed here, please create a new issue: http://code.google.co
   * ocPortal
   * phpBB Portal
   * PHPBoost
+  * phpFox *new*
   * PHPFusion
   * PHPKit
   * PHPNuke
