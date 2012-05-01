@@ -12,9 +12,10 @@ If your CMS is not listed here, please create a new issue: http://code.google.co
 
 == Supported CMS ==
 
-  * Clansphere *new*
+  * Clansphere
   * Cotonti
   * Dragonfly
+  * Drupal  *new*
   * DZCP
   * e107
   * ECP
