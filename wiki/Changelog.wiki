@@ -4,6 +4,23 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.53 to 0.60==
+*Bugfixes:*
+  * The infobubbles should not flicker anymore under some circumstances
+
+*New Language:*
+  * Greek (Translated by Grammatopoulos "GreatApo" Apostolos)
+
+*New Feature: Stats-Compare*
+  * With the new stats compare function, you can compare the stats of each weapon and vehicle you've played with those of your comrades in the leaderboard. You can sort by any value, to find out the best headshoter for example!
+  * You can deaktivate the function here: Adminpanel->Settings. This may be neccessary, if you use ezStats as a widget f.e.
+
+*New CMS-Plugin:*
+  * Drupal
+
+*Misc:*
+  * There is now a Donation button in the login page of the adminpanel. If you like ezStats, please feel free to donate.
+
 ==v0.52 to 0.53==
 *Last seen online:*
 
