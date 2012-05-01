@@ -7,6 +7,7 @@ Those languages are supported in ezStats. If you want to translate ezStats in yo
  * Czech - translated by Matej _matysekcz_ Stembirek
  * Dutch - translated by Martin _Oergamer.nl_ Sluiter
  * French - translated by Adrien _DriiDrii74_ Manzon
+ * Greek - translated by Grammatopoulos _GreatApo_ Apostolos
  * Hebrew - translated by Boaz _NightBeast_ Shako
  * Italian - translated by Pietro _Skar3_ Mingo
  * Korean - translated by Son _Kananbis_ JiHoon
