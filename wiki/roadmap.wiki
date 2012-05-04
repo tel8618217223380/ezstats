@@ -13,7 +13,7 @@ Here I will introduce the planned features of the upcoming versions of ezStats.
   * _Weapons leaderboards_: With this version, the weapons leaderboards are launched. You can choose any weapon, and in the leaderboard you can compare your and your mates stats with it, like kills, headshots, accuracy, and so on. You can disable the menu in Adminpanel->Settings
 
 == v0.6x ==
-  * _More Leaderboards_: Leaderboards for vehicles, equipments, general stats and global rankings
+  * _More Leaderboards_: Leaderboards for favourites, general stats and global rankings
 
 == v0.7x ==
   * _History_: Charts with the trend of many stats values for each player
