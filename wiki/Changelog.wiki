@@ -4,6 +4,13 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.60 to 0.61==
+*Bugfixes:*
+  * Under certain circumstances, the synchronization of the data with Battlelog could not pushed. This is fixed.
+
+*Stats Compare: Global rankings*
+  * In the detail view you've certainly seen it: for many values there is a "Global Ranking", that is, how good you are compared to all other registered players at bf3stats.com. Now you can use the new stats compare function to compare for your global position for " Kills with headshots" or "Revives per minute as assault" with those of your comrades on the leaderboard!
+
 ==v0.53 to 0.60==
 *Bugfixes:*
   * The infobubbles should not flicker anymore under some circumstances
