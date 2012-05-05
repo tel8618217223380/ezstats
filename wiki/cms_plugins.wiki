@@ -12,7 +12,7 @@ By default ezStats runs independently. If you want to embed into your ezStats pa
 
 ===What is the advantage of CMS plugins?===
 
-If you use ezStats as a plugin in the CMS, there are no disadvantages. ezStats automatically takes over the homepage design (font size, color, and style for example). Regardless how many players you add to the leaderboard, all players are displayed. Furthermore, the detailed view of the stats (version 0.4) works!
+If you use ezStats as a plugin in the CMS, there are no disadvantages. ezStats automatically takes over the homepage design (font size, color, and style for example). Regardless how many players you add to the leaderboard, all players are displayed. Furthermore, the detailed view of the stats works!
 <br/>
 ----
 ===Wofür CMS-Plugins?===
@@ -25,4 +25,4 @@ Standardmäßig läuft ezStats ja eigenständig. Wenn man ezStats nun in seine S
 
 ===Was ist der Vorteil von CMS-Plugins?===
 
-Wenn man ezStats als Plugin im CMS nutzt, gibt es diese Nachteile nicht. ezStats übernimmt automatisch das Design der Homepage (Schriftgröße, -farbe, und -art z.B.). Unabhängig wieviele Spieler du dem Leaderboard hinzufügst, es werden immer alle angezeigt. Ausserdem funktioniert die Detailansicht der Stats (ab Version 0.4)!
+Wenn man ezStats als Plugin im CMS nutzt, gibt es diese Nachteile nicht. ezStats übernimmt automatisch das Design der Homepage (Schriftgröße, -farbe, und -art z.B.). Unabhängig wieviele Spieler du dem Leaderboard hinzufügst, es werden immer alle angezeigt. Ausserdem funktioniert die Detailansicht der Stats!
