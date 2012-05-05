@@ -1,7 +1,5 @@
 #summary CMS-Plugins to integrate ezStats seamless into a CMS (without using iFrame)
 
-_*CMS-Plugins comes in version 0.20!*_
-
 _deutsche Version weiter unten_
 
 ===Why CMS plugins?===
