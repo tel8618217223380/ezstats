@@ -5,15 +5,9 @@
 
 Here I will introduce the planned features of the upcoming versions of ezStats.
 
-== v0.53 ==
-  * _Last seen online_: There are some new columns in the leaderboard, with you can activate in Adminpanel->Customize: the last time a player was online. If you click on the date, a box with the server details pops up
-  * _CMS_: Clansphere
-
-== v0.60 ==
-  * _Weapons leaderboards_: With this version, the weapons leaderboards are launched. You can choose any weapon, and in the leaderboard you can compare your and your mates stats with it, like kills, headshots, accuracy, and so on. You can disable the menu in Adminpanel->Settings
-
-== v0.6x ==
-  * _More Leaderboards_: Leaderboards for favourites, general stats and global rankings
-
 == v0.7x ==
   * _History_: Charts with the trend of many stats values for each player
+  * _Style_: Selectable color for icons like "Kits" etc.
+
+== v0.8x ==
+  * Signatures
