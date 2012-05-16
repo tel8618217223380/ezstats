@@ -15,7 +15,7 @@ If your CMS is not listed here, please create a new issue: http://code.google.co
   * Clansphere
   * Cotonti
   * Dragonfly
-  * Drupal  *new*
+  * Drupal
   * DZCP
   * e107
   * ECP
@@ -31,7 +31,9 @@ If your CMS is not listed here, please create a new issue: http://code.google.co
   * PHPKit
   * PHPNuke
   * SMF
+  * vBadvanced CMPS  *new*
   * vBulletin CMS
   * wBB3
   * Webspell
   * Wordpress 
+  * XenForo  *new*
