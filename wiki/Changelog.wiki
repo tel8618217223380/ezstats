@@ -4,6 +4,19 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.61 to 0.62==
+*Bugfixes:*
+  * The labels of the infobubbles are displayed correct now, even if they are very long.
+
+*CMS plugins:*
+  * New: vBadvanced CMPS
+  * New: XenForo 1.x
+
+*Stats Compare*
+The "Compare function" now has two additional menu items: Favorites and General!
+You can now use the compare function to show almost all the stats values ​​that exist in the leaderboard overview and in the detail view. And you can directly compare your results with those of your comrades.
+Because all those values ​​are available on the compare function, you can reduce the count of columns in the leaderboard overview to the most important columns ​​for you. This you can do in the "Admin Panel->Customize"
+
 ==v0.60 to 0.61==
 *Bugfixes:*
   * Under certain circumstances, the synchronization of the data with Battlelog could not pushed. This is fixed.
