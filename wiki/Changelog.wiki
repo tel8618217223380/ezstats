@@ -4,6 +4,16 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+
+==v0.62 to 0.70==
+*New feature: Stats History*
+
+As of now, there are diagrams for each player with the progress his stats! For example, you can look how your kill-death ratio or score-per-minute has developed the last time. Or which vehicle you have played as much the last time. Or if your accuracy and the percentage of your headshots has developed the same!
+
+The data on which the charts are based, are collected since your first ezStats installation. If you add a new player, then no data is available to create the chart. After 15 stats updates, there are enough data for the diagrams.
+
+New in this version is the way you open the detail and history site: If you move the mouse over a player's name, then it opens a small pop-up. There you can choose you whether you want to open the detail or history page, or the Battlelog or BF3Stats page. Therefore, you can disable the "Links" column on the leaderboard. This you can do in the admin panel under "Customize".
+
 ==v0.61 to 0.62==
 *Bugfixes:*
   * The labels of the infobubbles are displayed correct now, even if they are very long.
