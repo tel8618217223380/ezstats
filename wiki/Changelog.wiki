@@ -4,6 +4,8 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.70 to 0.71==
+  * Added support of *Close Quarters* DLC
 
 ==v0.62 to 0.70==
 *New feature: Stats History*
