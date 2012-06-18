@@ -5,9 +5,12 @@
 
 Here I will introduce the planned features of the upcoming versions of ezStats.
 
-== v0.7x ==
-  * _History_: Charts with the trend of many stats values for each player
-  * _Style_: Selectable color for icons like "Kits" etc.
-
-== v0.8x ==
+== v0.80 ==
   * Signatures
+
+== v0.81 ==
+  * Selectable time period for history function
+
+== v0.90 ==
+  * Revised style functions
+  * Various style presets
