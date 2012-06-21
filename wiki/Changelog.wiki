@@ -4,6 +4,14 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.71 to 0.80==
+*New plugin for Joomla*
+The previous ezStats plugin for Joomla did not work under certain circumstances, or impairs the performance of the homepage. In this version of ezStats, a second plugin for Joomla is included, which runs fast and stable, but requires the installation of the plugin "Sourcerer".
+
+*New Feature: Signatures*
+ezStats can now create signatures for each player on the leaderboard in three different sizes. The signatures are on the detail page of the players, where they are copy the URL of the pictures to add it in a forum for example.
+By default, the signature feature is disabled in ezStats. You can activate it in the adminpanel under the menu option "Signatures". Please note that the signatures must be updated regularly with a cron job. More information can be found in the adminpanel.
+
 ==v0.70 to 0.71==
   * Added support of *Close Quarters* DLC
 
