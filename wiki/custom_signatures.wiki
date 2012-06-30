@@ -4,7 +4,7 @@
 
 ezStats offers three different signatures for each player, which yo can adjust slightly. But perhaps you like only "med"-signature, but want two or more of them with different background images. This article explains, how you can realize this by some modifications of ezStats.
 
-The program I use for editing of the source code is [http://notepad-plus-plus.org/ Notepad++]. This manual works wit ezStats version 0.81 or higher
+The program I use for editing of the source code is [http://notepad-plus-plus.org/ Notepad++]. This manual works with ezStats version 0.81 or higher
 
 == Details ==
 
