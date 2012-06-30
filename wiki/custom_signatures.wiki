@@ -1,0 +1,12 @@
+#summary How to create custom signatures in ezStats
+
+== Introduction ==
+
+ezStats offers three different signatures for each player, which yo can adjust slightly. But perhaps you like only "med"-signature, but want five of them with different background images. This article explains, how you can realize this by some modifications of ezStats.
+
+The program I use for editing of the source code is [http://notepad-plus-plus.org/ Notepad++]
+
+== Details ==
+
+Download the file `tmp/defaults.js` and open it in Notepad++. Scroll down to the end of the file, and copy the entries of the signature you want to duplicate. In this case `med`.
+» [http://gfx.ezstats.org/sig01.png Picture 1]
