@@ -23,7 +23,7 @@ Search now for the string `function create_rankicon`. The search function opens 
 Then search for the string `function create_text`. To increase clarity, click on the boxes with the minus, on the left side of the If-loops. The lines inside the loops are hidden now.
 » [http://gfx.ezstats.org/sig05.png Picture 5]
 
-Then copy and paste the If-loop you want to use as pattern and, in this example, rename "med" with "custom1". This can be a little bit tricky because of the hidden lines. Just copy the empty lines after the loop, and you'll copy the entire loop.
+Now paste paste again the code `OR $type == "custom1"` in the If-loop of "med" for this example.
 » [http://gfx.ezstats.org/sig06.png Picture 6]
 
 Now save the file and upload it. Then download the file `admin/templates/signatures.html` and open it in Notepad++. Scroll to the bottom, duplicate the h2- and ul-code and rename "med" with "custom1".
