@@ -17,7 +17,7 @@ Now paste the code after `"min_background_offset": "0"`. Change the prefix of th
 Now save the file and upload it. Then download the file `classes/signatures.php` and open it in Notepad++. In line 9, append the prefix "custom1" to the array.
 » [http://gfx.ezstats.org/sig03.png Picture 3]
 
-Search now for the string `function create_rankicon`. The search function opens with "CTRL+F". Copy and paste the If-loop you want to use as pattern and, in this example, rename "med" with "custom1".
+Search now for the string `function create_rankicon`. The search function opens with "CTRL+F". Now paste the code `OR $type == "custom1"` in the If-loop of "med" for this example.
 » [http://gfx.ezstats.org/sig04.png Picture 4]
 
 Then search for the string `function create_text`. To increase clarity, click on the boxes with the minus, on the left side of the If-loops. The lines inside the loops are hidden now.
