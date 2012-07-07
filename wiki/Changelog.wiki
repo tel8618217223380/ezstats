@@ -6,11 +6,11 @@ You have to run the installer after uploading the new version, because of change
 
 ==v0.80 to 0.81==
 *History charts:*
-You can now set the time range for which the stats chart is generated. Upon opening of the history of the maximum period is displayed.
+  * You can now set the time range for which the stats chart is generated. Upon opening of the history of the maximum period is displayed.
 
 *Signatures:*
-- In addition to the URL, the BB code and HTML code will be displayed for the signatures, which you can use to embed it.
-- If you want to generate more signatures than those three, you'll find a guide on how it works: http://code.google.com/p/ezstats/wiki/custom_signatures
+  * In addition to the URL, the BB code and HTML code will be displayed for the signatures, which you can use to embed it.
+  * If you want to generate more signatures than those three, you'll find a guide on how it works: http://code.google.com/p/ezstats/wiki/custom_signatures
 
 ==v0.71 to 0.80==
 *New plugin for Joomla*
