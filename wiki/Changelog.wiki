@@ -14,7 +14,7 @@ You have to run the installer after uploading the new version, because of change
   * You can syncronize the leaderboard with platoons and set, that players are removed from the leaderboard, if they are not in the platoon anymore. It could happen that all the players were deleted from the leaderboard when Battlelog was unavailable. This bug was fixed.
 
 *Signatures:*
-  * =TFS= PapaRenner has created a pattern pack, with which you can modify the background of your signatures. You can download the pack here: http://code.google.com/p/ezstats/downloa...attern_pack.zip
+  * =TFS= PapaRenner has created a pattern pack, with which you can modify the background of your signatures. You can download the pack here: http://code.google.com/p/ezstats/downloads/detail?name=signature_pattern_pack.zip
   * The signature images should no longer be cached by the browser. Now, always the actual version of the signature should be displayed.
   * A great new signature is available with the favorite weapons and vehicles. The signature was proposed by G-MAN-GUK. Don't forget to update the signatures after installing the new version of ezStats.
 
