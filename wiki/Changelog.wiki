@@ -4,12 +4,16 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.83 to 0.84==
+Added support of Armored Kill DLC
+  * Added five new assignments
+  * Added six new vehicles
+  * Added two new vehicle categories
+
 ==v0.82 to 0.83==
   * Fixed an Javascript error. Now the detail-page opens correct again
   * Added five new Premium assignments
   * Added three new medals and ribbons
-
-
 
 ==v0.81 to 0.82==
 *Assignments:*
