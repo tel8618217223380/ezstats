@@ -4,6 +4,10 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.84 to 0.85==
+  * Weapons Tab: Workaround for a change in the stats-API: The knife and the AT launchers again don't count for the top-list and the weapon progress anymore
+  * A new plugin method for MyBB
+
 ==v0.83 to 0.84==
 Added support of Armored Kill DLC:
   * Added five new assignments
