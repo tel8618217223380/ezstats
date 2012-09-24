@@ -14,6 +14,7 @@ Those languages are supported in ezStats. If you want to translate ezStats in yo
  * Norwegian - translated by Martin _SleggeAuto_ Stranden
  * Polish - translated by Artur _cyrq_ Kubicki
  * Portuguese - translated by Emanuel _Bejecas_ Rua
+ * Romanian - translated by Catalin Cimpanu
  * Russian - translated by Vladimir _59RU_ Motor59
  * Spanish - translated by Teobaldo _theo9876543210_ Vasquez Pina
  * Turkish - translated by Fatih _MrkiLLerMan88_ Es
