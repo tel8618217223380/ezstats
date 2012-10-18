@@ -1,0 +1,73 @@
+#summary Features of ezStats 2 for Battlefield 3
+
+===Features of ezStats 2 for Battlefield 3===
+
+<table><tbody><tr><td>
+=== english ===
+  # *Fully sortable leaderboard table*
+     * You can modify it easily and choose from 30 different values
+  # *Detailed stats*
+     * Hundreds of different stats values are accessible for each player:
+     * Kits, Scores, Weapons, Vehicles, Equipment, Awards, Assignments, Coop
+  # *Compare the players*
+     * You can compare the performance of all players on all weapons and vehicles, as well as their global ranking and much more
+  # *History graphs*
+     * There are graphs that show the development of the players stats in nice curves!
+  # *Signatures*
+     * ezStats can create signatures for the players, which can be used in forums f.e.
+     * You can modify slightly, f.e. with own background images
+  # *Multi-Platform*
+     * You can add PC-, PS3- and Xbox360-players to the leaderboard
+     * And all platforms can be in the leaderboard at the same time
+  # *Choose your language*
+     * ezStats supports 15 languages
+     * See full list: <a href="http://code.google.com/p/ezstats/wiki/supported_languages">Supported languages</a>
+  # *Easy to use*
+     * The complete installation and administraton process is in the browser and kept very simple and comfortable
+  # *Player management*
+     * You can add new players to the leaderboard very fast by entering their player names
+     * You can create multiple admin accounts, so your comrades can help you with the management of the leaderboard
+     * Or you can activate the possibility for the players to add themselves
+  # *Syncronisation with Battlelog platoons*
+     * If you don't won't to manage the players of the leaderboard by hand, you can syncronize it with one or more of your Battlelog platoons
+  # *Change the styles*
+     * You can modify the appearance of the leaderboard in the admin panel
+  # *Integrate ezStats into your CMS*
+     * You can run ezStats as a plugin in your existing CMS, so the leaderboard appears as a native part of your website
+     * See full list: <a href="http://code.google.com/p/ezstats/wiki/supported_cms">Supported CMS</a>
+
+</td><td> 
+=== english ===
+  # *Fully sortable leaderboard table*
+     * You can modify it easily and choose from 30 different values
+  # *Detailed stats*
+     * Hundreds of different stats values are accessible for each player:
+     * Kits, Scores, Weapons, Vehicles, Equipment, Awards, Assignments, Coop
+  # *Compare the players*
+     * You can compare the performance of all players on all weapons and vehicles, as well as their global ranking and much more
+  # *History graphs*
+     * There are graphs that show the development of the players stats in nice curves!
+  # *Signatures*
+     * ezStats can create signatures for the players, which can be used in forums f.e.
+     * You can modify slightly, f.e. with own background images
+  # *Multi-Platform*
+     * You can add PC-, PS3- and Xbox360-players to the leaderboard
+     * And all platforms can be in the leaderboard at the same time
+  # *Choose your language*
+     * ezStats supports 15 languages
+     * See full list: <a href="http://code.google.com/p/ezstats/wiki/supported_languages">Supported languages</a>
+  # *Easy to use*
+     * The complete installation and administraton process is in the browser and kept very simple and comfortable
+  # *Player management*
+     * You can add new players to the leaderboard very fast by entering their player names
+     * You can create multiple admin accounts, so your comrades can help you with the management of the leaderboard
+     * Or you can activate the possibility for the players to add themselves
+  # *Syncronisation with Battlelog platoons*
+     * If you don't won't to manage the players of the leaderboard by hand, you can syncronize it with one or more of your Battlelog platoons
+  # *Change the styles*
+     * You can modify the appearance of the leaderboard in the admin panel
+  # *Integrate ezStats into your CMS*
+     * You can run ezStats as a plugin in your existing CMS, so the leaderboard appears as a native part of your website
+     * See full list: <a href="http://code.google.com/p/ezstats/wiki/supported_cms">Supported CMS</a>
+
+</td></tr></tbody></table>
