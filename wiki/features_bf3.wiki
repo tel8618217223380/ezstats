@@ -1,7 +1,7 @@
 #summary Features of ezStats 2 for Battlefield 3
 
 ===Features of ezStats 2 for Battlefield 3===
-
+<img src="http://gfx.ezstats.org/banner_bf3.jpg" />
 <table width='800px'><tbody><tr><td valign='top'>
 === english ===
   # *Fully sortable leaderboard table*
