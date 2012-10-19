@@ -2,7 +2,7 @@
 
 ===Features of ezStats 2 for Battlefield 3===
 
-<table><tbody><tr><td>
+<table width='800px' valign='top'><tbody><tr><td>
 === english ===
   # *Fully sortable leaderboard table*
      * You can modify it easily and choose from 30 different values
@@ -35,7 +35,6 @@
   # *Integrate ezStats into your CMS*
      * You can run ezStats as a plugin in your existing CMS, so the leaderboard appears as a native part of your website
      * See full list: <a href="http://code.google.com/p/ezstats/wiki/supported_cms">Supported CMS</a>
-<br/><br/>
 </td><td> 
      
 </td><td> 
