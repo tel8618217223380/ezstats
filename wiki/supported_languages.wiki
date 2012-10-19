@@ -28,6 +28,7 @@ If you want to translate ezStats in your language, please send me a eMail to ezz
  * French
  * German
  * Greek
+ * Spanish
  </td></tr></tbody></table>
 
 ===Translators===
