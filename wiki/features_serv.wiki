@@ -2,6 +2,8 @@
 
 ===Features of ezStats 2 Serverviewer===
 
+<img src="http://gfx.ezstats.org/banner_serv.jpg" />
+
 <table width='800px'><tbody><tr><td width='45%' valign='top'>
 === english ===
   # *Multi-Server*
