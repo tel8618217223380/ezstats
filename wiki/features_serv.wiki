@@ -1,0 +1,77 @@
+#summary Features of ezStats 2 Serverviewer
+
+===Features of ezStats 2 Serverviewer===
+
+<table width='800px'><tbody><tr><td width='45%' valign='top'>
+=== english ===
+  # *Multi-Server*
+     * You can all your server to the Serverviewer
+     * The first server is shown if you open the Serverviewer
+     * The other server are accessible throgh a pull-down-menu
+  # *Show the settings*
+     * The basic properies of your server is shown like name, map, gamemode, player online, etc
+     * Also the settings of the server is shown like vehicle-spawn (on/off), kill-cam (on/off), etc.
+     * The server description is shown too. You can override the description in the adminpanel
+     * And the mapcycle is displayed in a fancy way
+  # *Live Scoretable*
+     * You have a live scoretable with all players online, their kills, deaths, KDR and scores.
+     * Every player is linked to their Battlelog page.
+     * Additionally you see the tickets left this round, as well as the rounds left on this map
+     * This function is for PC Server only!
+  # *Remotely Control / RCON*
+     * You can use this tool to remotely control your gameserver!
+     * »Change or restart a map!« - »Say or yell to all, a team or a player!« - »Switch a player to the other team or kick it from the server!«
+     * You can create multiple admin accounts, so you can give your community members or your regulars the possibility to moderate the server, without giving them your RCON password! 
+     * This function is for PC Server only!
+  # *Multi-Platform*
+     * You can add PC-, PS3- and Xbox360 gameserver to the Serverviewer
+     * Live scoretable and RCON functions are only for PC server available
+  # *Choose your language*
+     * ezStats supports many languages
+     * See full list: <a href="http://code.google.com/p/ezstats/wiki/supported_languages">Supported languages</a>
+  # *Easy to use*
+     * The complete installation and administraton process is in the browser and kept very simple and comfortable
+  # *Change the styles*
+     * You can activate or deactivate every module of this tool
+     * You can modify the appearance of the leaderboard in the admin panel
+  # *Integrate ezStats into your CMS*
+     * You can run ezStats as a plugin in your existing CMS, so the leaderboard appears as a native part of your website
+     * See full list: <a href="http://code.google.com/p/ezstats/wiki/supported_cms">Supported CMS</a>
+</td><td> 
+     
+</td><td width='45%' valign='top'> 
+=== deutsch ===
+  # *Multi-Server*
+     * Du kannst alle deine Server zum Serverviewer hinzufügen
+     * Der erste Server wird angezeigt, wenn du den Serverviewer öffnest
+     * Die anderen Server können über ein Pull-Down-Menü abgerufen werden
+  # *Zeige die Settings*
+     * Die grundlegenden Eigenschaften des Servers werden angezeigt wie Name, Map, Gamemode, Spieler online, etc
+     * Auch die Serversettings werden angezeigt wie Fahrzeug-Spawn (an/aus), Kill-cam (an/aus), etc.
+     * Die Server wird auch angezeigt. Du kannst sie im Adminpanel auch überschreiben
+     * Und der Mapcycle wird angezeigt!
+  # *Live Scoretable*
+     * Du hast ein Live Scoreboard mit allen Spielern die gerade online sind, mit ihren Kills, Deaths, KDR und Punkten.
+     * Jeder Spieler ist verlinkt mit ihrer Battlelog-Seite
+     * Zusätzlich siehst du die Anzahl Tickets, sowie die Anzahl Runden auf dieser Map
+     * Diese Funktion ist nur für PC Server!
+  # *RCON-Funktion*
+     * Du kannst dieses Tool nutzen, um deinen Gameserver zu steuern!
+     * »Ändere die Map oder starte sie neu!« - »Say or yell to all, a team or a player!« - »Schiebe einen Spieler in das andere Team oder kicke ihn vom Server!«
+     * Du kannst unzählige Adminaccounts erstellen und diese einen Communitymitgliedern oder Stammspielern geben. Diese können dann den Server moderieren, ohne daß du ihnen das RCON-Passwort geben musst! 
+     * Diese Funktion ist nur für PC Server!
+  # *Multi-Platform*
+     * Du kannst PC-, PS3- and Xbox360-Spieler zum Serverviewer hinzufügen
+     * Das Live-Scoreboard und die RCON-Funktionen sind nur für PC-Server verfügbar
+  # *Wähle deine Sprache*
+     * ezStats unterstützt viele Sprachen
+     * Siehe Liste: <a href="http://code.google.com/p/ezstats/wiki/supported_languages">Unterstützte Sprachen</a>
+  # *Einfach zu nutzen*
+     * Der komplette Installations- und Administrationsprozess findet im Browser statt und ist sehr einfach und komfortabel gestaltet
+  # *Ändere den Style*
+     * Du kannst jedes einzelne Modul des Serverviewers ein- und ausschalten
+     * Du kannst das optische Erscheinungsbild des Leaderboards im Adminpanel verändern
+  # *Binde ezStats in dein CMS ein*
+     * Du kannst ezStats als Plugin in dein CMS einbinden. Das Leaderboard erscheint dann so, als währe es ein nativer Bestandteil deiner Webseite
+     * Siehe Liste: <a href="http://code.google.com/p/ezstats/wiki/supported_cms">Unterstützte CMS</a>
+</td></tr></tbody></table>
