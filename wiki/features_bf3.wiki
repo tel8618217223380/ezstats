@@ -2,7 +2,7 @@
 
 ===Features of ezStats 2 for Battlefield 3===
 
-<table width='800px' valign='top'><tbody><tr><td>
+<table width='800px'><tbody><tr><td valign='top'>
 === english ===
   # *Fully sortable leaderboard table*
      * You can modify it easily and choose from 30 different values
