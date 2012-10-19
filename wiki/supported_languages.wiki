@@ -1,22 +1,34 @@
 #summary List of the supported languages
 
-Those languages are supported in ezStats. If you want to translate ezStats in your language, see here: http://code.google.com/p/ezstats/wiki/translate
+Those languages are supported in ezStats. I would like to express my thanks to the translators for their work.
+If you want to translate ezStats in your language, please send me a eMail to ezzemm4u@googlemail.com
 
+<table width='800px'><tbody><tr><td valign='top' width='50%'>
+====ezStats2 for BF3====
+ * Czech
+ * Dutch
  * English
+ * French
  * German
- * Czech - translated by Matej _matysekcz_ Stembirek
- * Dutch - translated by Martin _Oergamer.nl_ Sluiter
- * French - translated by Adrien _DriiDrii74_ Manzon
- * Greek - translated by Grammatopoulos _GreatApo_ Apostolos
- * Hebrew - translated by Boaz _NightBeast_ Shako
- * Italian - translated by Pietro _Skar3_ Mingo
- * Korean - translated by Son _Kananbis_ JiHoon
- * Norwegian - translated by Martin _SleggeAuto_ Stranden
- * Polish - translated by Artur _cyrq_ Kubicki
- * Portuguese - translated by Emanuel _Bejecas_ Rua
- * Romanian - translated by Catalin Cimpanu
- * Russian - translated by Vladimir _59RU_ Motor59
- * Spanish - translated by Teobaldo _theo9876543210_ Vasquez Pina
- * Turkish - translated by Fatih _MrkiLLerMan88_ Es
+ * Greek
+ * Hebrew
+ * Italian
+ * Korean
+ * Norwegian
+ * Polish
+ * Portuguese
+ * Romanian
+ * Russian
+ * Spanish
+ * Turkish
+</td><td valign='top'>
+====ezStats2 Serverviewer====
+ * Czech
+ * English
+ * French
+ * German
+ * Greek
+ </td></tr></tbody></table>
 
-I would like to express my thanks for the translations.
+===Translators===
+Matej 'matysekcz' Stembirek - Martin 'Oergamer.nl' Sluiter - Adrien 'DriiDrii74' Manzon - Grammatopoulos 'GreatApo' Apostolos - Boaz 'NightBeast' Shako - Pietro 'Skar3' Mingo - Son'Kananbis' JiHoon - Martin 'SleggeAuto' Stranden - Artur 'cyrq' Kubicki - Emanuel 'Bejecas' Rua - Catalin Cimpanu - Vladimir '59RU' Motor59 - Teobaldo 'theo9876543210' Vasquez Pina - Fatih 'MrkiLLerMan88' Es
