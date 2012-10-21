@@ -23,11 +23,10 @@ If you want to translate ezStats in your language, please send me a eMail to ezz
  * Turkish
 </td><td valign='top'>
 ====ezStats2 Serverviewer====
- * Czech
  * English
  * French
  * German
- * Greek
+ * Portuguese
  * Spanish
  </td></tr></tbody></table>
 
