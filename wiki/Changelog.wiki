@@ -4,6 +4,9 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.86 to 0.87==
+  * New language: Slowenian
+  * Revised languages: French, Portoguese, Spanish
 
 
 ==v0.85 to 0.86==
