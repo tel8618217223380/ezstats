@@ -40,7 +40,7 @@
 </td><td> 
 === Vorhandene Features ===
   # *Vollständig sortierbare Leaderboard-Tabelle*
-     * Du kannst sie einfach modifizieren und aus über many verschiedenen Werten wählen
+     * Du kannst sie einfach modifizieren und aus vielen verschiedenen Werten wählen
   # *Multi-Platform*
      * Du kannst PC-, PS3- and Xbox360-Spieler zum Leaderboard hinzufügen
      * Und die Spieler aller Plattformen werden gleichzeitig in dem selben Leaderboard angezeigt!
