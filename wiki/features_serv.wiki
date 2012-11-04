@@ -6,6 +6,9 @@
 
 <table width='800px'><tbody><tr><td width='45%' valign='top'>
 === english ===
+  # *Multi-Gaming*
+     * Support of Battlefield 3
+     * Support of Medal of Honor Warfighter
   # *Multi-Server*
      * You can all your server to the Serverviewer
      * The first server is shown if you open the Serverviewer
@@ -43,6 +46,9 @@
      
 </td><td width='45%' valign='top'> 
 === deutsch ===
+  # *Multi-Gaming*
+     * Support von Battlefield 3
+     * Support von Medal of Honor Warfighter
   # *Multi-Server*
      * Du kannst alle deine Server zum Serverviewer hinzufügen
      * Der erste Server wird angezeigt, wenn du den Serverviewer öffnest
