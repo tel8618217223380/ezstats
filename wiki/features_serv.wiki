@@ -28,6 +28,9 @@
      * »Change or restart a map!« - »Say or yell to all, a team or a player!« - »Switch a player to the other team or kick it from the server!«
      * You can create multiple admin accounts, so you can give your community members or your regulars the possibility to moderate the server, without giving them your RCON password! 
      * This function is for PC Server only!
+  # *Procon- & XLRstats-support*
+     * You can show the top players of the server
+     * Just enter the properties of your Procon/XLRstats database
   # *Multi-Platform*
      * You can add PC-, PS3- and Xbox360 gameserver to the Serverviewer
      * Live scoretable and RCON functions are only for PC server available
