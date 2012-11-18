@@ -71,6 +71,9 @@
      * »Ändere die Map oder starte sie neu!« - »Say or yell to all, a team or a player!« - »Schiebe einen Spieler in das andere Team oder kicke ihn vom Server!«
      * Du kannst unzählige Adminaccounts erstellen und diese einen Communitymitgliedern oder Stammspielern geben. Diese können dann den Server moderieren, ohne daß du ihnen das RCON-Passwort geben musst! 
      * Diese Funktion ist nur für PC Server!
+  # *Procon- & XLRstats-Support*
+     * Du kannst die Top-Spieler deines Servers anzeigen lassen
+     * Dazu musst du nur die Daten deiner Procon/XLRstats-Datenbank eintragen
   # *Multi-Platform*
      * Du kannst PC-, PS3- and Xbox360-Spieler zum Serverviewer hinzufügen
      * Das Live-Scoreboard und die RCON-Funktionen sind nur für PC-Server verfügbar
