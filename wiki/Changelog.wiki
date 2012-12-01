@@ -4,6 +4,14 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.87 to 0.88==
+Added support of Aftermath DLC:
+  * Added ten new assignments
+  * Added five new premium assignments
+  * Added three new vehicles
+  * Added two new weapons
+  * Added many new ribbons and medals
+
 ==v0.86 to 0.87==
   * New language: Slowenian
   * Revised languages: French, Portoguese, Spanish
