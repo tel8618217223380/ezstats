@@ -1,4 +1,4 @@
-#summary Features of ezStats 2 for Medal oh Honor Warfighter
+#summary Features of ezStats 2 for Medal of Honor Warfighter
 
 ===Features of ezStats 2 for Medal oh Honor Warfighter===
 <img src="http://gfx.ezstats.org/banner_mohw.jpg" />
