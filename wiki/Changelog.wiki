@@ -4,6 +4,10 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+==v0.88 to 0.90==
+* Added new premium assignments
+* Revised style functionality
+
 ==v0.87 to 0.88==
 Added support of Aftermath DLC:
   * Added ten new assignments
