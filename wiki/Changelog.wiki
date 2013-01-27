@@ -4,6 +4,10 @@
 == Important notice ==
 You have to run the installer after uploading the new version, because of changes in the database. Do not be afraid, you must not re-enter any data. Please update all players after that to avoid failures.
 
+
+==v0.90 to 0.91==
+  * Style functionality now with custom header banner
+
 ==v0.88 to 0.90==
   * Added new premium assignments
   * Revised style functionality
