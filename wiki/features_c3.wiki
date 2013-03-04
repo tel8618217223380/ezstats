@@ -1,0 +1,58 @@
+#summary Features of ezStats 2 for Crysis 3
+
+===Features of ezStats 2 for Crysis 3===
+<img src="http://gfx.ezstats.org/banner_c3.jpg" />
+<table width='800px'><tbody><tr><td valign='top'>
+=== Implemented Features ===
+  # *Fully sortable leaderboard table*
+     * You can modify it easily and choose from 29 different values
+  # *Multi-Platform*
+     * You can add PC-, PS3- and Xbox360-players to the leaderboard
+     * And all platforms can be in the leaderboard at the same time
+  # *Choose your language*
+     * ezStats supports over ten languages
+     * See full list: <a href="http://code.google.com/p/ezstats/wiki/supported_languages">Supported languages</a>
+  # *Easy to use*
+     * The complete installation and administraton process is in the browser and kept very simple and comfortable
+  # *Player management*
+     * You can add new players to the leaderboard very fast by entering their player names
+     * You can create multiple admin accounts, so your comrades can help you with the management of the leaderboard
+     * Or you can activate the possibility for the players to add themselves
+  # *Change the styles*
+     * You can modify the appearance of the leaderboard in many ways in the admin panel
+     * You can choose from eight presets to change the color scheme by one click
+  # *Integrate ezStats into your CMS*
+     * You can run ezStats as a plugin in your existing CMS, so the leaderboard appears as a native part of your website
+     * See full list: <a href="http://code.google.com/p/ezstats/wiki/supported_cms">Supported CMS</a>
+  # *Detailed stats*
+     * Many of different stats values are accessible for each player
+</td><td> 
+     
+</td><td> 
+=== Vorhandene Features ===
+  # *Vollständig sortierbare Leaderboard-Tabelle*
+     * Du kannst sie einfach modifizieren und aus 29 verschiedenen Werten wählen
+  # *Multi-Platform*
+     * Du kannst PC-, PS3- and Xbox360-Spieler zum Leaderboard hinzufügen
+     * Und die Spieler aller Plattformen werden gleichzeitig in dem selben Leaderboard angezeigt!
+  # *Wähle deine Sprache*
+     * ezStats unterstützt über zehn verschiedene Sprachen
+     * Siehe Liste: <a href="http://code.google.com/p/ezstats/wiki/supported_languages">Unterstützte Sprachen</a>
+  # *Einfach zu nutzen*
+     * Der komplette Installations- und Administrationsprozess findet im Browser statt und ist sehr einfach und komfortabel gestaltet
+  # *Spieler-Management*
+     * Du kannst Spieler zum Leaderboard hinzufügst, indem du einfach ihren Spielernamen eingibst
+     * Du kannst eine unbegrenzte Zahl an Admin-Accounts erstellen, so daß dir deine Kameraden beim Verwalten des Leaderboards helfen können
+     * Oder du kannst eine Funktion aktivieren, damit sich die Besucher und Nutzer deiner Seite selbst dem Leaderboard hinzufügen können
+  # *Ändere den Style*
+     * Du kannst das optische Erscheinungsbild des Leaderboards im Adminpanel stark verändern verändern
+     * Du kannst aus acht verschiedenen Presets wählen um das Farbschema mit nur einem Klick zu ändern
+  # *Binde ezStats in dein CMS ein*
+     * Du kannst ezStats als Plugin in dein CMS einbinden. Das Leaderboard erscheint dann so, als währe es ein nativer Bestandteil deiner Webseite
+     * Siehe Liste: <a href="http://code.google.com/p/ezstats/wiki/supported_cms">Unterstützte CMS</a>
+  # *Detaillierte Statistiken*
+     * Viele verschiedene Stats-Werte pro Spieler werden angezeigt
+</td><td> 
+ 
+</td><td> 
+</td></tr></tbody></table>
