@@ -25,16 +25,8 @@
   # *Integrate ezStats into your CMS*
      * You can run ezStats as a plugin in your existing CMS, so the leaderboard appears as a native part of your website
      * See full list: <a href="http://code.google.com/p/ezstats/wiki/supported_cms">Supported CMS</a>
-
-=== Upcoming Features === 
   # *Detailed stats*
-     * Hundreds of different stats values are accessible for each player:
-     * Kits, Scores, Weapons, Awards and many more
-  # *Compare the players*
-     * You can compare the performance of all players on all weapons and vehicles, as well as their global ranking and much more
-  # *Signatures*
-     * ezStats can create signatures for the players, which can be used in forums f.e.
-     * You can modify slightly, f.e. with own background images
+     * Many of different stats values are accessible for each player
 </td><td> 
      
 </td><td> 
@@ -60,16 +52,8 @@
   # *Binde ezStats in dein CMS ein*
      * Du kannst ezStats als Plugin in dein CMS einbinden. Das Leaderboard erscheint dann so, als währe es ein nativer Bestandteil deiner Webseite
      * Siehe Liste: <a href="http://code.google.com/p/ezstats/wiki/supported_cms">Unterstützte CMS</a>
- 
-=== Geplante Features ===
   # *Detaillierte Statistiken*
-     * Hunderte verschiedene Stats-Werte pro Spieler werden angezeigt:
-     * Kits, Punkte, Waffen, Fahrzeuge, Equipment, Awards, Aufträge, Coop
-  # *Vergleiche die Spieler*
-     * Du kannst deine Stats mit denen der Spieler im Leaderboard direkt vergleichen für alle Waffen, Fahrzeuge, der globale Rang und vieles mehr
-  # *Signaturen*
-     * ezStats kann Signaturen für die Spieler generieren, die z.B. in Foren eingesetzt werden können
-     * Die Signaturen können in gewissem Rahmen modifiziert werden; mit anderen Hintergrundgrafiken z.B. 
+     * Viele verschiedene Stats-Werte pro Spieler werden angezeigt
 </td><td> 
  
 </td><td> 
