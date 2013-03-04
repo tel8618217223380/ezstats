@@ -40,8 +40,8 @@
   # *Easy to use*
      * The complete installation and administraton process is in the browser and kept very simple and comfortable
   # *Change the styles*
-     * You can activate or deactivate every module of this tool
-     * You can modify the appearance of the leaderboard in the admin panel
+     * You can modify the appearance of the leaderboard in many ways in the admin panel
+     * You can choose from eight presets to change the color scheme by one click
   # *Integrate ezStats into your CMS*
      * You can run ezStats as a plugin in your existing CMS, so the leaderboard appears as a native part of your website
      * See full list: <a href="http://code.google.com/p/ezstats/wiki/supported_cms">Supported CMS</a>
@@ -84,7 +84,8 @@
      * Der komplette Installations- und Administrationsprozess findet im Browser statt und ist sehr einfach und komfortabel gestaltet
   # *Ändere den Style*
      * Du kannst jedes einzelne Modul des Serverviewers ein- und ausschalten
-     * Du kannst das optische Erscheinungsbild des Leaderboards im Adminpanel verändern
+     * Du kannst das optische Erscheinungsbild des Leaderboards im Adminpanel stark verändern verändern
+     * Du kannst aus acht verschiedenen Presets wählen um das Farbschema mit nur einem Klick zu ändern
   # *Binde ezStats in dein CMS ein*
      * Du kannst ezStats als Plugin in dein CMS einbinden. Das Leaderboard erscheint dann so, als währe es ein nativer Bestandteil deiner Webseite
      * Siehe Liste: <a href="http://code.google.com/p/ezstats/wiki/supported_cms">Unterstützte CMS</a>
