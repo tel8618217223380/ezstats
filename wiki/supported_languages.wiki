@@ -33,4 +33,20 @@ If you want to translate ezStats in your language, please send me a eMail to ezz
  </td></tr></tbody></table>
 
 ===Translators===
-Matej 'matysekcz' Stembirek - Martin 'Oergamer.nl' Sluiter - Adrien 'DriiDrii74' Manzon - Grammatopoulos 'GreatApo' Apostolos - Boaz 'NightBeast' Shako - Pietro 'Skar3' Mingo - Son'Kananbis' JiHoon - Martin 'SleggeAuto' Stranden - Artur 'cyrq' Kubicki - Emanuel 'Bejecas' Rua - Catalin Cimpanu - Vladimir '59RU' Motor59 - Teobaldo 'theo9876543210' Vasquez Pina - Fatih 'MrkiLLerMan88' Es - Juka 'OziOne' Jurinič
+ * Matej "matysekcz" Stembirek
+ * Martin "Oergamer.nl" Sluiter
+ * Adrien "DriiDrii74" Manzon
+ * Grammatopoulos "GreatApo" Apostolos
+ * Boaz "NightBeast" Shako
+ * Pietro "Skar3" Mingo
+ * Son"Kananbis" JiHoon
+ * Martin "SleggeAuto" Stranden
+ * Artur "cyrq" Kubicki
+ * Emanuel "Bejecas" Rua
+ * Catalin Cimpanu
+ * Vladimir "59RU" Motor59
+ * Teobaldo "theo9876543210" Vasquez Pina
+ * Fatih "MrkiLLerMan88" Es
+ * Juka "OziOne" Jurinic
+ * "bomitus"
+ 
