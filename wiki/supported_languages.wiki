@@ -5,10 +5,12 @@ If you want to translate ezStats in your language, please send me a eMail to ezz
 
 <table width='800px'><tbody><tr><td valign='top' width='50%'>
 ====ezStats2 for BF3, MoHW & C3====
+ * Bulgarian
  * Czech
  * Dutch
  * English
  * French
+ * Finnish
  * German
  * Greek
  * Hebrew
