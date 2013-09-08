@@ -4,7 +4,7 @@ Those languages are supported in ezStats. I would like to express my thanks to t
 If you want to translate ezStats in your language, please send me a eMail to ezzemm4u@googlemail.com
 
 <table width='800px'><tbody><tr><td valign='top' width='50%'>
-====ezStats2 for BF3, MoHW & C3====
+====ezStats2====
  * Bulgarian
  * Czech
  * Dutch
