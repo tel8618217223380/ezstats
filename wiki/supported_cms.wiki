@@ -20,6 +20,7 @@ If your CMS is not listed here, please create a new issue: http://code.google.co
   * e107
   * ECP
   * Ilch
+  * Invision Power Board 3
   * Joomla
   * MyBB
   * Nuked Klan
