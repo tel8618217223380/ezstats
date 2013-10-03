@@ -19,7 +19,7 @@ I have executed the following PHP-Code on my server, and on a server of another 
     socket_connect(
         socket_create(AF_INET, SOCK_STREAM, SOL_TCP),
         "123.456.789.012",
-        012345
+        12345
     );
 }}}
 
